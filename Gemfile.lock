@@ -32,7 +32,8 @@ GEM
       ast (~> 2.4.0)
     rainbow (3.0.0)
     rake (13.0.1)
-    rexml (3.2.4)
+    rexml (3.3.3)
+      strscan
     rubocop (0.82.0)
       jaro_winkler (~> 1.5.1)
       parallel (~> 1.10)
@@ -45,6 +46,7 @@ GEM
       rubocop (~> 0.82.0)
     ruby-progressbar (1.10.1)
     sqlite3 (1.4.2)
+    strscan (3.1.0)
     thread_safe (0.3.6)
     tzinfo (1.2.7)
       thread_safe (~> 0.1)
